@@ -5,6 +5,10 @@
 [![Demo Video]([https://img.shields.io/badge/Demo-Watch%20Video-red](https://github.com/user-attachments/assets/1c5a2f35-472d-4dda-851d-bee0d69bda09))]
 
 
+https://github.com/user-attachments/assets/67076fc4-7ee8-46d2-a14a-a7302bdc979c
+
+
+
 ## 📖 專案簡介 (Introduction)
 
 本專案旨在展示如何透過 **n8n** 自動化工作流程，將一個簡單的主題概念轉化為引人入勝的短影音。利用生成式 AI 的強大功能，從腳本撰寫、素材生成到最終的影片剪輯，實現完全自動化的內容創作流程。
