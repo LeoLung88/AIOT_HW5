@@ -2,8 +2,6 @@
 
 ## 🎬 n8n 自動化短影音生成器 (Automated Short Video Generator)
 
-[![Demo Video]([https://img.shields.io/badge/Demo-Watch%20Video-red](https://github.com/user-attachments/assets/1c5a2f35-472d-4dda-851d-bee0d69bda09))]
-
 
 https://github.com/user-attachments/assets/67076fc4-7ee8-46d2-a14a-a7302bdc979c
 
